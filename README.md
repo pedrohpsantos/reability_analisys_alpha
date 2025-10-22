@@ -138,7 +138,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 👨‍💻 Autor
 
-**Pedro Santos** - [pedrohpsantos](https://github.com/pedrohpsantos)
+**Pedro Henrique Pereira Santos** - [pedrohpsantos](https://github.com/pedrohpsantos)
 
 ---
 
