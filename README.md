@@ -84,7 +84,7 @@ alpha, stats = calcular_alpha_cronbach_detalhado(df, colunas_escala)
 ## 📊 Interpretação dos Resultados
 
 ### Classificação do Alpha de Cronbach:
-- **≥ 0.95**: Excelente (possível redundância)
+- **≥ 0.95**: Possível redundância
 - **≥ 0.90**: Excelente
 - **≥ 0.80**: Boa
 - **≥ 0.70**: Aceitável
